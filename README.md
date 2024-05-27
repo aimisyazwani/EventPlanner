@@ -1,6 +1,6 @@
 # Event Planner Project
 
-:smile:**WEB APPLICATION PROJECT**:smile:
+:cherry_blossom:**WEB APPLICATION PROJECT**:cherry_blossom:
 
 *Team Members: Aimi Syazwani Binit Azamazim (2219426) <br>
               Adawiyah Nasihah Binti M.Yuni (2213022) <br>
