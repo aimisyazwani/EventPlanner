@@ -2,10 +2,10 @@
 
 :smile:**WEB APPLICATION PROJECT**:smile:
 
-*Team Members: Aimi Syazwani Binit Azamazim<br>
-              Adawiyah Nasihah Binti M.Yuni<br>
-              Ain Atiqah Binti Wahab<br>
-              Ainul Hayat Binti Abd Wahab*<br>
+*Team Members: Aimi Syazwani Binit Azamazim (2219426) <br>
+              Adawiyah Nasihah Binti M.Yuni (2213022) <br>
+              Ain Atiqah Binti Wahab (2216806) <br>
+              Ainul Hayat Binti Abd Wahab (2212266)*<br>
 
 
 ![eventplanning100x300](https://github.com/aimisyazwani/EventPlanner/assets/170388461/d8f081a1-2ca2-4d26-9d17-855b331cfb10)
