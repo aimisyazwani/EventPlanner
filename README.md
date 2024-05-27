@@ -1,6 +1,6 @@
 # Event Planner Project
 
-**WEB APPLICATION PROJECT**
+:smile:**WEB APPLICATION PROJECT**:smile:
 
 *Team Members: Aimi Syazwani Binit Azamazim<br>
               Adawiyah Nasihah Binti M.Yuni<br>
