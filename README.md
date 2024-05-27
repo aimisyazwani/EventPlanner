@@ -2,7 +2,7 @@
 
 :cherry_blossom:WEB APPLICATION PROJECT:cherry_blossom:
 
-*Team Members: Aimi Syazwani Binit Azamazim (2219426) <br>
+*Team Members: Aimi Syazwani Binti Azamazim (2219426) <br>
               Adawiyah Nasihah Binti M.Yuni (2213022) <br>
               Ain Atiqah Binti Wahab (2216806) <br>
               Ainul Hayat Binti Abd Wahab (2212266)*<br>
@@ -32,25 +32,25 @@ In today's fast-paced world, eventplanning has become increasingly complex, dema
 
 ## 💡 Features and functionalities
   
-<img width="391" alt="image" src="https://github.com/aimisyazwani/EventPlanner/assets/170388461/0b18a744-d002-4710-9ae5-6759bc915c6d" hspace="50" > 
+<img width="388" alt="image" src="https://github.com/aimisyazwani/EventPlanner/assets/170388461/0b18a744-d002-4710-9ae5-6759bc915c6d" hspace="50" > 
 
-<img width="387" alt="image" src="https://github.com/aimisyazwani/EventPlanner/assets/170388461/00102191-fc2a-49ff-98f1-a4e71d9b4a1d" hspace="50">
+<img width="388" alt="image" src="https://github.com/aimisyazwani/EventPlanner/assets/170388461/00102191-fc2a-49ff-98f1-a4e71d9b4a1d" hspace="50">
 
-<img width="392" alt="image" src="https://github.com/aimisyazwani/EventPlanner/assets/170388461/23a9fb6d-006c-4414-a39b-a79a76a357cb" hspace="50">
+<img width="388" alt="image" src="https://github.com/aimisyazwani/EventPlanner/assets/170388461/23a9fb6d-006c-4414-a39b-a79a76a357cb" hspace="50">
 
-<img width="389" alt="image" src="https://github.com/aimisyazwani/EventPlanner/assets/170388461/11f3eb51-cc8b-49f9-8808-f2bee070886f" hspace="50">
+<img width="388" alt="image" src="https://github.com/aimisyazwani/EventPlanner/assets/170388461/11f3eb51-cc8b-49f9-8808-f2bee070886f" hspace="50">
 
 <img width="388" alt="image" src="https://github.com/aimisyazwani/EventPlanner/assets/170388461/99832d33-dd12-416e-bb3a-f821be6170a7" hspace="50">
 
 <img width="388" alt="image" src="https://github.com/aimisyazwani/EventPlanner/assets/170388461/1c8d0235-5989-4e9b-888d-d2fa3cef6dcd" hspace="50">
 
-<img width="400" alt="image" src="https://github.com/aimisyazwani/EventPlanner/assets/170388461/4d724164-f789-48f2-b3b8-98dde5179519" hspace="50">
+<img width="388" alt="image" src="https://github.com/aimisyazwani/EventPlanner/assets/170388461/4d724164-f789-48f2-b3b8-98dde5179519" hspace="50">
 
 
 ## 🗺️ ERD Diagram
 
 <br>
-<img width="400" alt="image" src=https://github.com/aimisyazwani/EventPlanner/assets/170388461/4719a6d3-7e9f-4a20-b0ca-a34193926a59>
+<img width="400" alt="image" src=https://github.com/aimisyazwani/EventPlanner/assets/170388461/4719a6d3-7e9f-4a20-b0ca-a34193926a59 hspace="50">
 
 ## 📈 Sequence Diagram
 
