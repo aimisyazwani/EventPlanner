@@ -11,6 +11,7 @@
 ![eventplanning100x300](https://github.com/aimisyazwani/EventPlanner/assets/170388461/d8f081a1-2ca2-4d26-9d17-855b331cfb10)
 
 
+TABLE OF CONTENT
 - [📢 Introduction](#introduction)
 - [🎯 Objectives](#objective)
 - [💡 Features and functionalities](#featuresandfunctionalities)
@@ -54,6 +55,7 @@ In today's fast-paced world, eventplanning has become increasingly complex, dema
 
 ## 📈 Sequence Diagram
 
+<img width="400" alt="image" src=https://github.com/aimisyazwani/EventPlanner/assets/170388461/185bac31-e54a-4a74-87d3-f5bcd6082763>
 
 
 
