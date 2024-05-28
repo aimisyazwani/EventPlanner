@@ -43,9 +43,9 @@ In today's fast-paced world, eventplanning has become increasingly complex, dema
 
 <img width="388" alt="image" src="https://github.com/aimisyazwani/EventPlanner/assets/170388461/99832d33-dd12-416e-bb3a-f821be6170a7" hspace="50">
 
-<img width="388" alt="image" src="https://github.com/aimisyazwani/EventPlanner/assets/170388461/1c8d0235-5989-4e9b-888d-d2fa3cef6dcd" hspace="50">
-
 <img width="388" alt="image" src="https://github.com/aimisyazwani/EventPlanner/assets/170388461/4d724164-f789-48f2-b3b8-98dde5179519" hspace="50">
+
+<img width="388" alt="image" src="https://github.com/aimisyazwani/EventPlanner/assets/170388461/1c8d0235-5989-4e9b-888d-d2fa3cef6dcd" hspace="50">
 
 
 ## 🗺️ ERD Diagram
