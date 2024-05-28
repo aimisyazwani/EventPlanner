@@ -1,4 +1,4 @@
-# Event Planner Project
+# Event Planner Platform
 
 :cherry_blossom:WEB APPLICATION PROJECT:cherry_blossom:
 
